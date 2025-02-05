@@ -1,0 +1,10 @@
+org\serverboi\monitor\DeviceMonitor$1.class
+org\serverboi\monitor\DeviceMonitor.class
+org\serverboi\monitor\MonitoredDevice.class
+org\serverboi\ui\DeviceCell.class
+org\serverboi\ui\AdvancedSettingsDialog.class
+org\serverboi\capture\BitTorrentCapture.class
+org\serverboi\socket\SocketServer.class
+org\serverboi\Main$2.class
+org\serverboi\Main$1.class
+org\serverboi\Main.class
