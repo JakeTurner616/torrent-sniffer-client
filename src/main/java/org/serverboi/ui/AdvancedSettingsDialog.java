@@ -23,7 +23,7 @@ public class AdvancedSettingsDialog {
 
         // Add the application icon to the sub-window.
         // Ensure that your icon image is available in your resources folder at "/icon.png"
-        Image icon = new Image(getClass().getResourceAsStream("/icon.png"));
+        Image icon = new Image(getClass().getResourceAsStream("/skunk.png"));
         settingsStage.getIcons().add(icon);
 
         // Existing advanced settings section.
